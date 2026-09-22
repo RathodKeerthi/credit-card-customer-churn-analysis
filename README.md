@@ -65,7 +65,7 @@ Open the terminal in the project folder and run:
 ```bash
 pip install -r requirements.txt
 
-## Key Information
+### Key Information
 
 - Total customers analyzed: 10,127
 - Existing customers: 8,500
