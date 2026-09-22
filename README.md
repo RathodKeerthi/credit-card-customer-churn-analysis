@@ -64,3 +64,18 @@ Open the terminal in the project folder and run:
 
 ```bash
 pip install -r requirements.txt
+
+## Key Information
+
+- Total customers analyzed: 10,127
+- Existing customers: 8,500
+- Attrited customers: 1,627
+- Overall observed attrition rate: 16.07%
+- Existing customers showed higher average transaction count and transaction amount than attrited customers.
+- Average credit utilization differed between existing and attrited customers.
+- Attrition rates varied across different inactivity levels and customer contact counts.
+- An interactive Streamlit dashboard was created to present the analysis and insights.
+
+## Conclusion
+
+This project analyzes credit card customer data to understand customer behavior and attrition patterns. The analysis compares existing and attrited customers using transaction activity, credit utilization, inactivity, customer contacts, income category, and demographic information. The results provide useful areas for further customer retention analysis, while the dashboard makes the findings easier to explore and understand.
